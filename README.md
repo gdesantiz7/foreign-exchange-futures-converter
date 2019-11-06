@@ -8,7 +8,7 @@ Choose a product.  In this example BRL is selected which represents BRL against 
 <img src="images/Screen Shot 2019-11-05 at 8.00.26 PM.png" width="225" height="40">
 
 
-Enter contract size labled as futures amount.
+Enter contract size labeled as futures amount.
 
 <img src="images/Screen Shot 2019-11-05 at 8.28.21 PM.png" width="225" height="75">
 
