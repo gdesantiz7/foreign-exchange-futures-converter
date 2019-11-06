@@ -23,7 +23,11 @@ Enter an outright spread that reflects the amount and the current market conditi
 <img src="images/Screen Shot 2019-11-05 at 10.19.49 PM.png" width="500" height="70">
 
 
-Once all the above is input, only the bid on the outright will need to be updated with changes in price.  The futures price will automatically update.
+Once all the above is input, only the bid on the outright will need to be updated with changes in price.  The futures price and futures spread will automatically update.
 
 <img src="images/Screen Shot 2019-11-05 at 10.37.05 PM.png" width="500" height="165">
+
+
+With an increase in the outright price, futures is inversely affected.
+
 <img src="images/Screen Shot 2019-11-05 at 10.37.51 PM.png" width="500" height="165">
