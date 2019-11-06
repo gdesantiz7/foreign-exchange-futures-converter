@@ -3,16 +3,27 @@ The global foreign exchange market accounts for over $5 trillion U.S. dollars wo
 
 The primary goal of this project is to allow users to efficiently and accurately price foreign exchange futures given a forward price and contract size.
 ## Using the Foreign Exchange Futures Converter
-Choose your product.  In this example BRL is selected which represents BRL against USD.
+Choose a product.  In this example BRL is selected which represents BRL against USD.
 
-<img src="images/Screen Shot 2019-11-05 at 8.00.26 PM.png" width="250" height="40">
+<img src="images/Screen Shot 2019-11-05 at 8.00.26 PM.png" width="225" height="40">
 
 
-Choose your contract size labled as futures amount.
+Enter contract size labled as futures amount.
 
-<img src="images/Screen Shot 2019-11-05 at 8.28.21 PM.png" width="250" height="80">
+<img src="images/Screen Shot 2019-11-05 at 8.28.21 PM.png" width="225" height="75">
 
 
 There will be a corresponding output in currency amount (BRL) and USD amount.
 
-<img src="images/Screen Shot 2019-11-05 at 9.27.27 PM.png" width="300" height="80">
+<img src="images/Screen Shot 2019-11-05 at 9.27.27 PM.png" width="300" height="70">
+
+
+Enter an outright spread that reflects the amount and the current market conditions.  This spread will remain constant between the outright bid and offer price.
+
+<img src="images/Screen Shot 2019-11-05 at 10.19.49 PM.png" width="500" height="70">
+
+
+Once all the above is input, only the bid on the outright will need to be updated with changes in price.  The futures price will automatically update.
+
+<img src="images/Screen Shot 2019-11-05 at 10.37.05 PM.png" width="500" height="165">
+<img src="images/Screen Shot 2019-11-05 at 10.37.51 PM.png" width="500" height="165">
