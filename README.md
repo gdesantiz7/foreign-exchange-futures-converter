@@ -32,6 +32,3 @@ Once all the above is input, only the bid on the outright will need to be update
 With an increase in the outright price, futures is inversely affected.
 
 <img src="images/Screen Shot 2019-11-05 at 10.37.51 PM.png" width="500" height="165">
-
-## Links
-* Futures Specifications: [CME Group](https://www.cmegroup.com/trading/fx/)
